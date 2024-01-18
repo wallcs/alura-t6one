@@ -23,36 +23,36 @@ alert("Boas vindas ao nosso site!");
 
 // -------------------------------------------------------------------------------
 let nome = "lua";
-console.log(nome)
+console.log(nome);
 
 // -------------------------------------------------------------------------------
 let idade = 25;
-console.log(idade)
+console.log(idade);
 
 // -------------------------------------------------------------------------------
 let numeroDeVendas = 50;
-console.log(numeroDeVendas)
+console.log(numeroDeVendas);
 
 // -------------------------------------------------------------------------------
 let saldoDisponivel = 1000;
-console.log(saldoDisponivel)
+console.log(saldoDisponivel);
 
 // -------------------------------------------------------------------------------
 alert("Erro! Preencha todos os campos.");
 
 // -------------------------------------------------------------------------------
-let mensagemDeErro = ("Erro! Preencha todos os campos.")
-alert(mensagemDeErro)
+let mensagemDeErro = ("Erro! Preencha todos os campos.");
+alert(mensagemDeErro);
 
 // -------------------------------------------------------------------------------
-let nome1 = prompt("Qual é o seu nome?: ")
-console.log(nome1)
+let nome1 = prompt("Qual é o seu nome?: ");
+console.log(nome1);
 
 // -------------------------------------------------------------------------------
-let idade1 = prompt("Digite a sua idade: ")
-console.log(idade1)
+let idade1 = prompt("Digite a sua idade: ");
+console.log(idade1);
 if (idade1 >= 18) {
-    alert("Já pode tirar carteira!")
+    alert("Já pode tirar carteira!");
 }
 
 

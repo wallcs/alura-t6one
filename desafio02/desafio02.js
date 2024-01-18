@@ -21,25 +21,25 @@
 // }
 
 // -------------------------------------------------------------------------------
-// let numEscolhido = prompt("Digite um número ")
+// let numEscolhido = prompt("Digite um número ");
 // if(numEscolhido < 0){
-//     alert(`O número ${numEscolhido} é negativo!`)
+//     alert(`O número ${numEscolhido} é negativo!`);
 // } else {
-//     alert(`O número ${numEscolhido} é positivo!`)
+//     alert(`O número ${numEscolhido} é positivo!`);
 // }
 
 // -------------------------------------------------------------------------------
-// let score = prompt("Qual foi a sua pontuação? ")
+// let score = prompt("Qual foi a sua pontuação? ");
 // if(score >= 100){
-//     alert("Parabéns, você venceu!")
+//     alert("Parabéns, você venceu!");
 // } else {
-//     alert("Tente novamente para ganhar.")
+//     alert("Tente novamente para ganhar.");
 // }
 
 // -------------------------------------------------------------------------------
-// let saldo = prompt("Qual o saldo?")
-// alert(`Seu saldo é de R$${saldo}.`)
+// let saldo = prompt("Qual o saldo?");
+// alert(`Seu saldo é de R$${saldo}.`);
 
 // -------------------------------------------------------------------------------
-let nomeUsuario = prompt("Qual é o seu nome?")
-alert(`Seja bem vindo ${nomeUsuario}.`)
+let nomeUsuario = prompt("Qual é o seu nome?");
+alert(`Seja bem vindo ${nomeUsuario}.`);
