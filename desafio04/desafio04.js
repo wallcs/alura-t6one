@@ -52,12 +52,12 @@
 // console.log(`A difenrença de ${valor1} e ${valor2} é igual a ${resultado}.`);
 
 // -------------------------------------------------------------------------------
-// let idade = prompt("Qual a sua idade?");
+// idade = prompt("Qual a sua idade?");
 // let maiorIdade = idade > 18 ? "Você é maior de idade!" : "Você é menor de idade!" ;
 // console.log(maiorIdade);
 
 // -------------------------------------------------------------------------------
-// let numero = prompt("Digite um numero:");
+//numero = prompt("Digite um numero:");
 // if ( numero == 0 ){
 //     alert(`É zero!`);
 // } else {
@@ -77,19 +77,19 @@
 // }
 
 // -------------------------------------------------------------------------------
-// let nota = prompt("Qual é nota");
+// nota = prompt("Qual é nota");
 // let condicao = nota >= 7 ? "Aprovado" : "Reprovado" ;
 // console.log(condicao);
 
 // -------------------------------------------------------------------------------
-// let numAleatorio = parseInt(Math.random()*100);
-// console.log(numAleatorio)
+// numAleatorio = parseInt(Math.random()*100);
+// console.log(numAleatorio);
 
 // -------------------------------------------------------------------------------
 
 // // let numAleatorio = parseInt(Math.random()*10 + 1);
-// // console.log(numAleatorio)
+// // console.log(numAleatorio);
 
 // -------------------------------------------------------------------------------
 let numAleatorio = parseInt(Math.random()*1000 + 1);
-console.log(numAleatorio)
+console.log(numAleatorio);
